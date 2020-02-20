@@ -120,3 +120,15 @@ C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.Copy
 C:\Users\3PO\Documents\GitHub\bc\Repositorio\SqlBaseCon.exe
 C:\Users\3PO\Documents\GitHub\bc\Repositorio\SqlBaseCon.pdb
 C:\Users\3PO\Documents\GitHub\bc\Repositorio\SqlBaseCon.xml
+C:\Users\juanp\Documents\GitHub\bc\Repositorio\SqlBaseCon.exe
+C:\Users\juanp\Documents\GitHub\bc\Repositorio\SqlBaseCon.pdb
+C:\Users\juanp\Documents\GitHub\bc\Repositorio\SqlBaseCon.xml
+C:\Users\juanp\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbprojAssemblyReference.cache
+C:\Users\juanp\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Form1.resources
+C:\Users\juanp\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SqlBaseCon.FrmMostrarComando.resources
+C:\Users\juanp\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Resources.resources
+C:\Users\juanp\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.GenerateResource.cache
+C:\Users\juanp\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.CopyComplete
+C:\Users\juanp\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SqlBaseCon.exe
+C:\Users\juanp\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SqlBaseCon.xml
+C:\Users\juanp\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SqlBaseCon.pdb

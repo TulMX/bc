@@ -6,4 +6,7 @@
         MsgBox(s.CargarCeldaInteger("SELECT COUNT(*) FROM CAT_FASES1RAETAPA", "PRUEBA"))
     End Sub
 
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        MsgBox("alerta")
+    End Sub
 End Class
