@@ -1,0 +1,14 @@
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\b\Gupta.SQLBase.Data.12.2.0.0.Fakes.xml
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\b\Gupta.SQLBase.Data.12.2.0.0.Fakes.dll
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\b\Gupta.SQLBase.Data.12.2.0.0.Fakes.pdb
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\b\Gupta.SQLBase.Data.dll
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\b\SqlBaseCon.dll
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\b\System.Transactions.dll
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\b\SqlBaseCon.pdb
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\b\SqlBaseCon.xml
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\o\f.csprojAssemblyReference.cache
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\o\f.csproj.CoreCompileInputs.cache
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\o\f.csproj.CopyComplete
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\o\Gupta.SQLBase.Data.12.2.0.0.Fakes.dll
+C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\Fakes\gsqlbd\o\Gupta.SQLBase.Data.12.2.0.0.Fakes.pdb
