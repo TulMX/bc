@@ -117,3 +117,6 @@ C:\Users\3PO\Documents\GitHub\TexnovaRepositorio\SqlBaseCon.exe
 C:\Users\3PO\Documents\GitHub\TexnovaRepositorio\SqlBaseCon.pdb
 C:\Users\3PO\Documents\GitHub\TexnovaRepositorio\SqlBaseCon.xml
 C:\Users\3PO\Documents\GitHub\bc\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.CopyComplete
+C:\Users\3PO\Documents\GitHub\bc\Repositorio\SqlBaseCon.exe
+C:\Users\3PO\Documents\GitHub\bc\Repositorio\SqlBaseCon.pdb
+C:\Users\3PO\Documents\GitHub\bc\Repositorio\SqlBaseCon.xml
