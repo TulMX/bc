@@ -50,11 +50,10 @@
   <ItemGroup>
     <Reference Include="Gupta.SQLBase.Data, Version=12.2.0.0, Culture=neutral, PublicKeyToken=ff2507ba9fe9b3ac, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\TexnovaRepositorio\Gupta.SQLBase.Data.dll</HintPath>
+      <HintPath>..\Repositorio\Gupta.SQLBase.Data.dll</HintPath>
     </Reference>
-    <Reference Include="SqlBaseCon, Version=1.0.0.1, Culture=neutral, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\TexnovaRepositorio\gupta\SqlBaseCon.dll</HintPath>
+    <Reference Include="SqlBaseCon">
+      <HintPath>..\Repositorio\gupta\SqlBaseCon.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
