@@ -1,0 +1,81 @@
+C:\Nomina TEXNOVA\Programación\RBCONECTOR\SBCONECTOR\obj\x86\Debug\SBCONECTOR.vbprojResolveAssemblyReference.cache
+C:\Nomina TEXNOVA\Programación\RBCONECTOR\SBCONECTOR\obj\x86\Debug\SBCONECTOR.vbproj.GenerateResource.Cache
+C:\Nomina TEXNOVA\Programación\RBCONECTOR\SBCONECTOR\bin\Debug\SqlBaseCon.dll
+C:\Nomina TEXNOVA\Programación\RBCONECTOR\SBCONECTOR\bin\Debug\SqlBaseCon.pdb
+C:\Nomina TEXNOVA\Programación\RBCONECTOR\SBCONECTOR\bin\Debug\SqlBaseCon.xml
+C:\Nomina TEXNOVA\Programación\RBCONECTOR\SBCONECTOR\obj\x86\Debug\SqlBaseCon.Form1.resources
+C:\Nomina TEXNOVA\Programación\RBCONECTOR\SBCONECTOR\obj\x86\Debug\SqlBaseCon.Resources.resources
+C:\Nomina TEXNOVA\Programación\RBCONECTOR\SBCONECTOR\obj\x86\Debug\SqlBaseCon.dll
+C:\Nomina TEXNOVA\Programación\RBCONECTOR\SBCONECTOR\obj\x86\Debug\SqlBaseCon.xml
+C:\Nomina TEXNOVA\Programación\RBCONECTOR\SBCONECTOR\obj\x86\Debug\SqlBaseCon.pdb
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\bin\Debug\SqlBaseCon.dll
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\bin\Debug\SqlBaseCon.pdb
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\bin\Debug\SqlBaseCon.xml
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\bin\Debug\Gupta.SQLBase.Data.dll
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Form1.resources
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Resources.resources
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.dll
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.xml
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.pdb
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\SqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.FrmMostrarComando.resources
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\Repositorio\SqlBaseCon.dll
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\Repositorio\SqlBaseCon.pdb
+C:\Users\acer\Desktop\novalan1 (3)\Texnova\Repositorio\SqlBaseCon.xml
+C:\Users\acer\Desktop\novalan1 (3)\Repositorio\SqlBaseCon.dll
+C:\Users\acer\Desktop\novalan1 (3)\Repositorio\SqlBaseCon.pdb
+C:\Users\acer\Desktop\novalan1 (3)\Repositorio\SqlBaseCon.xml
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Form1.resources
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.FrmMostrarComando.resources
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Resources.resources
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.dll
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.xml
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.pdb
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaRepositorio\SqlBaseCon.dll
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaRepositorio\SqlBaseCon.pdb
+C:\Users\acer\Desktop\novalan1 (3)\TexnovaRepositorio\SqlBaseCon.xml
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaRepositorio\SqlBaseCon.dll
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaRepositorio\SqlBaseCon.pdb
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaRepositorio\SqlBaseCon.xml
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Form1.resources
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.FrmMostrarComando.resources
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Resources.resources
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.GenerateResource.Cache
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.dll
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.xml
+C:\Users\Oscar\Desktop\Novalan1(3)\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.pdb
+C:\IA\TEXNOVA\otro\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbprojAssemblyReference.cache
+C:\IA\TEXNOVA\otro\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Form1.resources
+C:\IA\TEXNOVA\otro\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.FrmMostrarComando.resources
+C:\IA\TEXNOVA\otro\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Resources.resources
+C:\IA\TEXNOVA\otro\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.GenerateResource.cache
+C:\IA\TEXNOVA\otro\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.CoreCompileInputs.cache
+C:\IA\TEXNOVA\otro\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.CopyComplete
+C:\IA\TEXNOVA\otro\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.xml
+C:\IA\TEXNOVA\otro\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.pdb
+C:\IA\TEXNOVA\otro\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.exe
+C:\IA\TEXNOVA\otro\SqlBaseCon.exe
+C:\IA\TEXNOVA\otro\SqlBaseCon.pdb
+C:\IA\TEXNOVA\otro\SqlBaseCon.xml
+C:\IA\TEXNOVA\otro\TexnovaRepositorio\SqlBaseCon.exe
+C:\IA\TEXNOVA\otro\TexnovaRepositorio\SqlBaseCon.pdb
+C:\IA\TEXNOVA\otro\TexnovaRepositorio\SqlBaseCon.xml
+C:\TEXNOVA\TexnovaRepositorio\SqlBaseCon.exe
+C:\TEXNOVA\TexnovaRepositorio\SqlBaseCon.pdb
+C:\TEXNOVA\TexnovaRepositorio\SqlBaseCon.xml
+C:\TEXNOVA\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbprojAssemblyReference.cache
+C:\TEXNOVA\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Form1.resources
+C:\TEXNOVA\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.FrmMostrarComando.resources
+C:\TEXNOVA\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.Resources.resources
+C:\TEXNOVA\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.GenerateResource.cache
+C:\TEXNOVA\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.CoreCompileInputs.cache
+C:\TEXNOVA\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SBCONECTOR.vbproj.CopyComplete
+C:\TEXNOVA\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.exe
+C:\TEXNOVA\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.xml
+C:\TEXNOVA\TexnovaSqlBaseCon\SqlBaseCon\obj\x86\Debug\SqlBaseCon.pdb
