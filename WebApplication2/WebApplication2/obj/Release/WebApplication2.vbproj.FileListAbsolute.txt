@@ -40,3 +40,5 @@ C:\Users\3PO\Documents\GitHub\bc\WebApplication2\WebApplication2\obj\Release\Web
 C:\Users\3PO\Documents\GitHub\bc\WebApplication2\WebApplication2\obj\Release\WebApplication2.vbprojAssemblyReference.cache
 C:\Users\3PO\Documents\GitHub\bc\WebApplication2\WebApplication2\bin\SqlBaseCon.dll
 C:\Users\3PO\Documents\GitHub\bc\WebApplication2\WebApplication2\bin\SqlBaseCon.pdb
+C:\Users\3PO\Documents\GitHub\bc\WebApplication2\WebApplication2\bin\SqlBaseCon.xml
+C:\Users\3PO\Documents\GitHub\bc\WebApplication2\WebApplication2\obj\Release\WebApplication2.vbproj.CoreCompileInputs.cache

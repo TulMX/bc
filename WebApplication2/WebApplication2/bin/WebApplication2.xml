@@ -37,7 +37,7 @@ WebApplication2
  Devuelve el objeto de registro Asp.
  </summary>
 </member>
-<member name="F:WebApplication2._Default._form1">
+<member name="F:WebApplication2.ConsultaTablas._form1">
 <summary>
 Control form1.
 </summary>
@@ -46,34 +46,7 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:WebApplication2._Default._IniciarConexion">
-<summary>
-Control IniciarConexion.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:WebApplication2._Default._Tabla">
-<summary>
-Control Tabla.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:WebApplication2._Default._Detalles">
-<summary>
-Control Detalles.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:WebApplication2._Default._texto">
+<member name="F:WebApplication2.ConsultaTablas._texto">
 <summary>
 Control texto.
 </summary>
@@ -82,9 +55,90 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:WebApplication2._Default._Button2">
+<member name="F:WebApplication2.ConsultaTablas._Button2">
 <summary>
 Control Button2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApplication2.ConsultaTablas._CerrarSesion">
+<summary>
+Control CerrarSesion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApplication2.Empleado._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApplication2.Empleado._K_EMPLEADO">
+<summary>
+Control K_EMPLEADO.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApplication2.Empleado._CEM_NOMBRE">
+<summary>
+Control CEM_NOMBRE.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApplication2.Empleado._CEM_DEPTO">
+<summary>
+Control CEM_DEPTO.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApplication2.Login._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApplication2.Login._inputEmail">
+<summary>
+Control inputEmail.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApplication2.Login._inputPassword">
+<summary>
+Control inputPassword.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:WebApplication2.Login._b1">
+<summary>
+Control b1.
 </summary>
 <remarks>
 Campo generado automáticamente.

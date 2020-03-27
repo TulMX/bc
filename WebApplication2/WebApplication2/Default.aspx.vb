@@ -11,6 +11,7 @@ Public Class _Default
 
     End Sub
     Protected Sub IniciarConexion_Click(sender As Object, e As EventArgs) Handles IniciarConexion.Click
+
         con = New SqlBaseCon.ClsBDGupta
         'If con.CrearConexion("192.11.11.3", "SYSADM", "panasoni", "SICP") = False Then
         If con.CrearConexion("192.11.11.3", "LOTES", "LOTES", "SICP") = False Then
@@ -41,41 +42,6 @@ Public Class _Default
         Button2.Visible = True
     End Sub
 
-    Public Sub MostrarTabla(dt As DataTable)
-
-        'Building an HTML string.
-        Dim html As New StringBuilder()
-
-        'Table start.
-        html.Append("<table bgcolor=" & Chr(34) & "#3366FF" & Chr(34) & "  border = '1'>")
-
-        'Building the Header row.
-        html.Append("<tr>")
-        For Each column As DataColumn In dt.Columns
-            html.Append("<th>")
-            html.Append(column.ColumnName)
-            html.Append("</th>")
-        Next
-        html.Append("</tr>")
-
-        'Building the Data rows.
-        For Each row As DataRow In dt.Rows
-            html.Append("<tr>")
-            For Each column As DataColumn In dt.Columns
-                html.Append("<td class=" & Chr(34) & "table table-dark" & Chr(34) & ">")
-                html.Append(row(column.ColumnName))
-                html.Append("</td>")
-            Next
-            html.Append("</tr>")
-        Next
-
-        'Table 
-        html.Append("</table>")
-
-        Page.Controls.Add(New Literal() With {
-         .Text = html.ToString()
-       })
-    End Sub
 
 
     Private Function GetData() As DataTable
@@ -110,7 +76,7 @@ Public Class _Default
         Dim t As New DataTable
 
         con.CargarTabla("SELECT * FROM " & texto.Text, "", t)
-        MostrarTabla(t)
+        MostrarTabla(t, Page, True)
 
     End Sub
 End Class
