@@ -4,6 +4,7 @@ Public Class ClsBDGupta
     Public Coman As New Gupta.SQLBase.Data.SQLBaseCommand
     Public Conexion As New Gupta.SQLBase.Data.SQLBaseConnection
     Public Mensajes As Boolean
+    Public MensajesError As String = ""
 
     Public Function ObtenerFechaParaGUPTA(ByVal Fecha As Date) As Date
         Return Fecha
@@ -11,12 +12,15 @@ Public Class ClsBDGupta
 
     Public Function CrearConexion(ByVal DataSource As String, ByVal Usuario As String, ByVal Contraseña As String, ByVal BasedeDatos As String) As Boolean
         Try
-            'Creando la conexion con la Base de Datos
-            Conexion.ConnectionString = "datasource=" & DataSource & ";db=" & BasedeDatos & ";uid=" & Usuario & "; pwd =" & Contraseña & ";Autocommit = True;Isolevel=RL"
+            'Creando la conexion con la Base de Datos}
+            'Conexion.ConnectionString = "DataSource=192.11.11.3;UserId=LOTES;Password=LOTES;"
+            'Conexion.ChangeDatabase("SICP")
+            Conexion.ConnectionString = "DataSource=" & DataSource & ";db=" & BasedeDatos & ";uid=" & Usuario & "; pwd =" & Contraseña & ";Autocommit = True;Isolevel=RL"
             Conexion.Open()
             Coman = Conexion.CreateCommand
             Return True
         Catch ex As Exception
+            MensajesError = ex.Message
             Return False
         End Try
     End Function
@@ -33,7 +37,7 @@ Public Class ClsBDGupta
         Try
             adap.Fill(tabla)
         Catch mes As Exception
-            MsgBox(mes.Message)
+            MensajesError = mes.Message
         End Try
     End Sub
 
@@ -55,7 +59,7 @@ Public Class ClsBDGupta
             adap.Fill(tabla)
             CrearTabla = tabla
         Catch ex As Exception
-            MsgBox("Err" & NombreFormulario & "," & ex.Message)
+            MensajesError = ex.Message
             CrearTabla = tabla
         End Try
     End Function
@@ -74,7 +78,7 @@ Public Class ClsBDGupta
             Commits()
             EnviarComando = True
         Catch ex As Exception
-            MsgBox("Err" & NombreFormulario & "," & ex.Message)
+            MensajesError = ex.Message
             'MostrarComando(Comando)
             EnviarComando = False
         End Try
@@ -82,9 +86,9 @@ Public Class ClsBDGupta
 
 
     Public Sub MostrarComando(ByVal Mostrar As String)
-        Dim f As New FrmMostrarComando
-        f.Mostrar = Mostrar
-        f.ShowDialog()
+        'Dim f As New FrmMostrarComando
+        'f.Mostrar = Mostrar
+        'f.ShowDialog()
     End Sub
 
     Public Function CargarTabla(ByVal Comando As String, ByVal Nombredelfrm As String, ByVal Tabla As DataTable) As Boolean
@@ -99,7 +103,7 @@ Public Class ClsBDGupta
             adap.Fill(Tabla)
             CargarTabla = True
         Catch ex As Exception
-            MsgBox("Err" & Nombredelfrm & "," & ex.Message)
+            MensajesError = ex.Message
             CargarTabla = False
         End Try
     End Function
@@ -124,7 +128,7 @@ Public Class ClsBDGupta
             End If
             CargarFila = tabla.Rows(0)
         Catch ex As Exception
-            MsgBox("Err" & Nombredelfrm & "," & ex.Message)
+            MensajesError = ex.Message
             CargarFila = tabla.NewRow
         End Try
     End Function
@@ -148,7 +152,7 @@ Public Class ClsBDGupta
             L = tabla.Rows(0)
             CargarCeldaString = Trim(L(0))
         Catch ex As Exception
-            MsgBox("Err" & Nombredelfrm & "," & ex.Message)
+            MensajesError = ex.Message
             CargarCeldaString = " "
         End Try
     End Function
@@ -172,7 +176,7 @@ Public Class ClsBDGupta
             L = tabla.Rows(0)
             CargarCeldaDateTime = Trim(L(0))
         Catch ex As Exception
-            MsgBox("Err" & Nombredelfrm & "," & ex.Message)
+            MensajesError = ex.Message
             CargarCeldaDateTime = Now
         End Try
     End Function
@@ -196,7 +200,7 @@ Public Class ClsBDGupta
             L = tabla.Rows(0)
             ObtenerFechadelServidor = L(0)
         Catch ex As Exception
-            MsgBox("Err" & "ObtenerFechadelServidor" & "," & ex.Message)
+            MensajesError = ex.Message
             ObtenerFechadelServidor = Now
         End Try
     End Function
@@ -220,7 +224,7 @@ Public Class ClsBDGupta
             L = tabla.Rows(0)
             CargarCeldaInteger = L(0)
         Catch ex As Exception
-            MsgBox("Err" & Nombredelfrm & "," & ex.Message)
+            MensajesError = ex.Message
             CargarCeldaInteger = 0
         End Try
     End Function
@@ -244,8 +248,9 @@ Public Class ClsBDGupta
             L = tabla.Rows(0)
             CargarCeldaDouble = L(0)
         Catch ex As Exception
-            MsgBox("Err" & Nombredelfrm & "," & ex.Message)
-            CargarCeldaDouble = " "
+            MensajesError = ex.Message
+
+            CargarCeldaDouble = 0
         End Try
     End Function
 
